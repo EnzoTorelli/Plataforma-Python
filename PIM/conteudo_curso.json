@@ -1,0 +1,50 @@
+{
+  "pensamento_logico": {
+    "aulas": [
+      "Aula 1: O que é pensamento lógico?",
+      "Aula 2: Sequência e ordem lógica",
+      "Aula 3: Condições: 'se e senão'",
+      "Aula 4: Repetições e padrões",
+      "Aula 5: Pensamento lógico no dia a dia"
+    ],
+    "exercicios": [
+      "Exercício 1",
+      "Exercício 2",
+      "Exercício 3",
+      "Exercício 4",
+      "Exercício 5"
+    ]
+  },
+  "seguranca_digital": {
+    "aulas": [
+      "Aula 1: O que é segurança digital?",
+      "Aula 2: Senhas fortes e autenticação",
+      "Aula 3: Phishing e engenharia social",
+      "Aula 4: Segurança em redes Wi-Fi",
+      "Aula 5: Proteção de dados pessoais"
+    ],
+    "exercicios": [
+      "Exercício 1",
+      "Exercício 2",
+      "Exercício 3",
+      "Exercício 4",
+      "Exercício 5"
+    ]
+  },
+  "programacao_python": {
+    "aulas": [
+      "Aula 1: O que é Python",
+      "Aula 2: Introdução ao Python e variáveis",
+      "Aula 3: Condições (if/else)",
+      "Aula 4: Laços de repetição",
+      "Aula 5: Funções"
+    ],
+    "exercicios": [
+      "Exercício 1",
+      "Exercício 2",
+      "Exercício 3",
+      "Exercício 4",
+      "Exercício 5"
+    ]
+  }
+}
